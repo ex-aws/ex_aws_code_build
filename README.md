@@ -4,7 +4,7 @@ Service module for https://github.com/ex-aws/ex_aws
 
 ## Installation
 
-The package can be installed by adding ex_aws_code_build to your list of dependencies in mix.exs along with :ex_aws and your preferred JSON codec / http client
+The package can be installed by adding `ex_aws_code_build` to your list of dependencies in `mix.exs`along with `:ex_aws` and your preferred JSON codec / http client.
 
 ```elixir
 def deps do
